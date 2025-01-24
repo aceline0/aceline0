@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Celine, a Data Science student at NMBU!
+- 🔭 I’m currently writing my thesis about sensor data from smart buildings to optimize energy and area use
+- Key qualifications: machine learning, statistical analysis, classification and time series analysis.
+  - R and python
+- 🌱 Passionate about environmen
+- 📫 Linked in: www.linkedin.com/in/celinenygaardweiseth
 
 <!--
 **aceline0/aceline0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
